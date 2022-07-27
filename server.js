@@ -16,7 +16,7 @@ const server = http.createServer((req, res) => {
     res.setHeader('Content-Type', 'text/html');
 
     res.write('<p>hello first time my guy</p>')
-    res.write('<p>hello, neegus</p>');
+    res.write('<p>hello, friend</p>');
     res.end();
 });  
 
