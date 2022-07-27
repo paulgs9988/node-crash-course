@@ -1,1 +1,1 @@
-#node-crash-course
+I built this basic blog site using Node.js and by making use of mongoDB to organize the blogs' functionality. Please note that the mongoDB credentials can be found in the dbURI const if you would like to check the functionality/cross reference the blog IDs used to route the URLs, etc. There are some extranneous files also committed that don't necessarily add to the functionality or utility of the project but are kept as learning materials. 
